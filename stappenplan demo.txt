@@ -1,0 +1,22 @@
+kali: python3 /home/kali/Desktop/brandblusserBackup.py, enter windows IP
+
+windows: python3 "C:/Users/Ilnur Khakimov/Desktop/PS G2/siem.py"
+
+startup wsl; cd psg2/; python3 Burning-paper-V2.py; 1 enter; kali ip no enter
+
+kali: 2 enter
+wsl: quick enter
+
+wait for end brute force
+
+windows: show siem.py
+
+wsl: ssh into kali; cd Desktop; ls; ls important; pwd; python3 Burning-Paper-V2.py; 2 enter
+
+windows: cd "C:/Users/Ilnur Khakimov/Desktop/PS G2/bo/"; ls; python3 boserver.py
+
+wsl: enter windows ip; 40008 enter; /home/kali/Desktop/important/ (dont forget / at end) enter; conti enter
+
+windows: show siem.py
+
+
